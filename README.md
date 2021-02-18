@@ -1,6 +1,6 @@
 ![alt text](/pics/top14-1.png "top-14-Kaggle-1")
 
-![alt text](/pics/top14-2.png "top-14-Kaggle-2")
+![alt text](/pics/top-14-2.png "top-14-Kaggle-2")
 
 # Introduction - Real or Not? NLP with Disaster Tweets
 
