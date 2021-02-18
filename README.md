@@ -1,3 +1,6 @@
+
+# Kaggle score
+
 TOP 150 (TOP14%) Kaggle  on 18th of february 2021
 ![alt text](/pics/top14-0.png "top-14-Kaggle-1")
 
