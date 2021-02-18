@@ -2,7 +2,8 @@
 
 * Link of the Competition - https://www.kaggle.com/c/nlp-getting-started
 
-Real or Not? NLP with Twitter
+Real or Not? NLP with Twitter.
+
 As a Datascience newcomer, I decided to write this notebook to extand my knowledge about natural language processing (NLP), in this notebook, we will be analyzing 10,000 hand classified tweets. these tweets are either labeled as disasters or not disasters. For instance we can consider the 2 following tweets:
 
 
