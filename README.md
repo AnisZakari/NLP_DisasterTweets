@@ -26,5 +26,5 @@ So this kernel aim's at predicting the correct label. We will go through **data 
 *   Neural Network with **Bert** pretrained layer
 
 
-Please note that this is my first notebook published in Kaggle, any advice would be highly appreciated, do not hesitate if you have any idea to improve this kernel or any, feel free to ask questions aswell.   
+Please note that this is my first notebook published on Kaggle, any advice would be highly appreciated, do not hesitate if you have any idea to improve this kernel or any, feel free to ask questions aswell.   
 
