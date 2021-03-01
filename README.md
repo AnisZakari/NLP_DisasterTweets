@@ -12,7 +12,7 @@ TOP 150 (TOP14%) Kaggle  on 18th of february 2021
 
 Real or Not? NLP with Twitter.
 
-As a Datascience newcomer, I decided to write this notebook to extand my knowledge about natural language processing (NLP), in this notebook, we will be analyzing 10,000 hand classified tweets. these tweets are either labeled as disasters or not disasters. For instance we can consider the 2 following tweets:
+As a Datascience newcomer, I decided to write this notebook to extend my knowledge about natural language processing (NLP), in this notebook, we will be analyzing 10,000 hand classified tweets. these tweets are either labeled as disasters or not disasters. For instance we can consider the 2 following tweets:
 
 
 *   These boxes are ready to explode! Exploding Kittens finally arrived! (Not Disaster)
