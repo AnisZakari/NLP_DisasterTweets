@@ -22,7 +22,7 @@ So this kernel aim's at predicting the correct label. We will go through **data 
 
 
 *   **Simple** Neural Network with text input
-*   **Mixt** Neural Network with text input + metadata input
+*   **Mixed Data** Neural Network with text input + metadata input
 *   Neural Network with **Bert** pretrained layer
 
 
